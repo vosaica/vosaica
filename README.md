@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vosaica
 - 👀 I’m interested in Gamemaking and graphics
-- 🌱 I’m currently learning CPP
+- 🌱 I’m currently learning DX12
 
 <!---
 vosaica/vosaica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
